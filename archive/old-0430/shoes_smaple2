@@ -1,0 +1,24 @@
+{
+  "brandSales": [
+    {
+      "brand": "Nike",
+      "sales": 42000000
+    },
+    {
+      "brand": "Adidas",
+      "sales": 38000000
+    },
+    {
+      "brand": "Puma",
+      "sales": 25000000
+    },
+    {
+      "brand": "New Balance",
+      "sales": 19000000
+    },
+    {
+      "brand": "Reebok",
+      "sales": 12000000
+    }
+  ]
+}
